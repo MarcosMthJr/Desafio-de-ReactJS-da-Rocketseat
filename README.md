@@ -1,4 +1,4 @@
-<img src="background.pgn">
+<img src="background.png">
 # Desafio 03: Conceitos do ReactJS
 Esse é o desafio 03 do Bootcamp da Rocketseat (turma goStack11) das aulas de ReactJS.
 <h2>Objetivo</h2>
